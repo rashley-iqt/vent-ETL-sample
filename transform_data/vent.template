@@ -1,0 +1,7 @@
+[info]
+name = Transform
+groups = etl
+
+[settings]
+ext_types = extracted
+process_base = yes

@@ -1,0 +1,6 @@
+[info]
+name = Extract
+groups = etl
+
+[settings]
+process_base = no

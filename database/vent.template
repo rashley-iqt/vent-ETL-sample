@@ -1,0 +1,7 @@
+[info]
+name = database
+groups = etl
+
+[settings]
+priority = 1
+process_base = no
